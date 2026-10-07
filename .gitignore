@@ -1,0 +1,4 @@
+.env
+.env.nextinternational
+output/
+node_modules/
